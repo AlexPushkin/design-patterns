@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "Main",
+					"name": "Visitor pattern",
 					"visible": true,
 					"defaultDiagram": true,
 					"ownedViews": [
