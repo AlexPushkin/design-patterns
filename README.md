@@ -1,2 +1,2 @@
 # design-patterns
-Learning design patterns in different programming langugages
+Learning design patterns in different programming languages
